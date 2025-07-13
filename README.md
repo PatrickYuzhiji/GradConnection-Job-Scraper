@@ -210,6 +210,8 @@ scrapy crawl gradconnection -L DEBUG
 
 ## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 This project is for educational purposes. Please ensure compliance with GradConnection's terms of service and robots.txt before use.
 
 ## Disclaimer
